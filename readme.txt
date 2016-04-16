@@ -1,0 +1,12 @@
+1. Description
+
+	I scraped informations of Apple products in mobiles & Tables category in souq.com site.
+
+2. Run
+
+	In shopscraper/, run:
+	$ scrapy crawl souq
+
+3. Result
+
+	In shopscraper/data.csv, you can see the informations of products.
